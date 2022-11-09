@@ -2,13 +2,13 @@
 
 - 🎓 I’m currently working towards a B.S. in Computer Science at the University of Houston. 
 - 🌱 I’m interested in full stack web development.
-- 🧠 I'm planning on learning backend development in Java.
+- 🧠 I'm planning on learning backend development using Java.
 - 📫 How to reach me: chung.brandon123@gmail.com
 
 ### My Skills
 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" aria-label="Link to TS Website"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
