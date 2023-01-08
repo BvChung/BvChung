@@ -1,9 +1,8 @@
 ### Hi there, my name is Brandon 👋
 
 - 🎓 I’m currently working towards a B.S. in Computer Science at the University of Houston. 
-- 🌱 I’m interested in full stack web development.
+- 🌱 I’m interested in backend and full stack web development.
 - 🧠 I'm planning on learning backend development using Java.
-- 📫 How to reach me: chung.brandon123@gmail.com
 
 ### My Skills
 
