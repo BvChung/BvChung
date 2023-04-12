@@ -1,6 +1,6 @@
 ### Hi there, my name is Brandon 👋
 
-- 🎓 I’m currently working towards a B.S. in Computer Science at the University of Houston. 
+- 🎓 I’m a post baccalaureate student currently working towards a B.S. in Computer Science at the University of Houston. 
 - 🌱 I’m interested in backend and full stack web development.
 - 🧠 I'm planning on learning backend development using Java.
 
